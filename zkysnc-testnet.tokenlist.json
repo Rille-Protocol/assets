@@ -1,24 +1,26 @@
 {
   "name": "RilleLending",
   "timestamp": "2023-07-01T00:00:00.000Z",
-  "chainId": 280,
+  "oracle": "0xC38B1dd611889Abc95d4E0a472A667c3671c08DE",
   "keywords": [
-  "rille protocol"
+    "rille protocol"
   ],
-  "tokens":[
+  "tokens": [
     {
       "address": "0x0000000000000000000000000000000000000000",
+      "priceFeedId": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/eth.png"
-      },
+      "logoURL": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/eth.png"
+    },
     {
       "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "priceFeedId": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/usdc.png"
-      }
+      "logoURL": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/usdc.png"
+    }
   ]
 }
