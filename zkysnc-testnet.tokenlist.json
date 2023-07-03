@@ -12,7 +12,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURL": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/eth.png"
+      "logoUrl": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/eth.png"
     },
     {
       "address": "0x0faF6df7054946141266420b43783387A78d82A9",
@@ -20,7 +20,17 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURL": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/usdc.png"
+      "logoUrl": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/usdc.png"
+    }
+  ],
+  "strategies": [
+    {
+      "strategyType": "stable",
+      "strategyAddress": "0xE02701b0350d82C360f6599039C5757a9C1BcB1B"
+    },
+    {
+      "strategyType": "variable",
+      "strategyAddress": "0x9EAB34133D4CcD82de159085d0B5fa24159EC2ad"
     }
   ]
 }
