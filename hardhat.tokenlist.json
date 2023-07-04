@@ -7,16 +7,16 @@
   ],
   "tokens": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
-      "priceFeedId": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
+      "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
+      "priceFeedId": "0xbae1379619e84dba1f894879ba55730dc00c20edac0da6e88239929012a34a41",
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
       "logoUrl": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/images/eth.png"
     },
     {
-      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
-      "priceFeedId": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722",
+      "address": "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e",
+      "priceFeedId": "0xbae1379619e84dba1f894879ba55730dc00c20edac0da6e88239929012a34a40",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
