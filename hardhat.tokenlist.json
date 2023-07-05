@@ -7,7 +7,7 @@
   ],
   "tokens": [
     {
-      "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
+      "address": "0x0000000000000000000000000000000000000000",
       "priceFeedId": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
       "name": "Ether",
       "symbol": "ETH",
