@@ -23,14 +23,8 @@
       "logoUrl": "https://raw.githubusercontent.com/Rille-Protocol/assets/main/images/usdc.png"
     }
   ],
-  "strategies": [
-    {
-      "strategyType": "stable",
-      "strategyAddress": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
-    },
-    {
-      "strategyType": "variable",
-      "strategyAddress": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
-    }
-  ]
+  "strategies": {
+    "stable": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+    "variable": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
+  }
 }
